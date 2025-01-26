@@ -1,6 +1,6 @@
 # Code of the AAAI-25 paper
+![image](https://github.com/user-attachments/assets/97b41151-d3ba-4275-94dc-d6cdc87f993b)
 
-![image](https://github.com/user-attachments/assets/70824376-ea6a-4fe7-ad91-2031fbf34872)
 
 # How to run the code
 First, run the following command to train a FL global model as the original model for unlearning experiments.
@@ -14,39 +14,41 @@ Next, execute the following command to run the unlearning algorithm.
 ```
 
 # Background
-![image](https://github.com/user-attachments/assets/ac79d22a-c63c-488a-814b-599808564d32)
+![image](https://github.com/user-attachments/assets/b94026b9-9a9e-409b-bdae-393b09dad0fd)
 
-![image](https://github.com/user-attachments/assets/1a2ee6c2-d6f7-444e-8013-bcf3a182ea4a)
+![image](https://github.com/user-attachments/assets/3d576e45-45b6-4333-9ba3-32019f29b8c9)
 
-![image](https://github.com/user-attachments/assets/177ab85b-740d-499e-a2c8-3a744f832bf6)
+![image](https://github.com/user-attachments/assets/9d4188ed-f3b3-476d-a840-bac05fd2f917)
 
-![image](https://github.com/user-attachments/assets/eb621a40-61f2-4bf9-920d-efcbc85b4ab8)
+![image](https://github.com/user-attachments/assets/2319c9a4-c8ad-436f-a2a7-a2da2efc3015)
 
 ## Key Challenges to FU
-![image](https://github.com/user-attachments/assets/529b95eb-eb77-4725-8c7f-36bec0a3ba27)
+![image](https://github.com/user-attachments/assets/9f554e07-a711-4ae7-8eed-09f9314b4b76)
 
 # The Proposed FedOSD
-![image](https://github.com/user-attachments/assets/357adb7d-f4c1-4ade-843a-4b6493b4a1a6)
+![image](https://github.com/user-attachments/assets/4e487b64-95a2-4501-aa82-c89f69d59535)
 
 ## Unlearning Cross-Entropy (UCE) Loss
-![image](https://github.com/user-attachments/assets/df9b0a97-6259-4e74-93ed-ffa55bdb0c5f)
+![image](https://github.com/user-attachments/assets/0525c0c9-4648-4a55-bcc9-29a6aa2968f4)
 
 ## Orthogonal Steepest Descent Direction
-![image](https://github.com/user-attachments/assets/d25175ce-55a7-48fd-9629-e235fe8810cb)
+![image](https://github.com/user-attachments/assets/70321347-e3d8-4a52-849d-27288340cda1)
 
-![image](https://github.com/user-attachments/assets/4f2b0f34-8d8f-432c-ae57-d3e3b3df98dd)
+![image](https://github.com/user-attachments/assets/b9c92c8c-5de9-4446-8f64-583895819582)
 
 ## Model Reverting Issue
-![image](https://github.com/user-attachments/assets/ceeb19b3-e2d5-410d-aca3-b1d1fbc3bde5)
+![image](https://github.com/user-attachments/assets/a4d41a84-9202-49cb-a84d-a3f2a440e71a)
 
 # Experiments
-![image](https://github.com/user-attachments/assets/d99268cf-f2ff-4bf0-8c1b-4b6193920209)
+![image](https://github.com/user-attachments/assets/c2850137-0976-4ee1-900a-f026882db461)
 
-![image](https://github.com/user-attachments/assets/7b99db90-451e-4799-8aeb-fead9dc16441)
+![image](https://github.com/user-attachments/assets/ede468f8-5f1c-48ed-bbf8-72378b5cd917)
 
-![image](https://github.com/user-attachments/assets/c59ef391-09a6-4597-ba1a-07eed52678fc)
+![image](https://github.com/user-attachments/assets/8770ebc9-8fd7-47f0-ba3f-6bd36b37aa03)
 
-![image](https://github.com/user-attachments/assets/aefaa15c-7854-44c1-829a-b6853827bdb5)
+![image](https://github.com/user-attachments/assets/e2a325a0-98fb-413b-97ac-3ed5f2e25578)
+
+![image](https://github.com/user-attachments/assets/25ab047a-0b2e-4f6d-a593-7a3d605e869b)
 
 # Conmunication
 Welcome to our session during the conference time. We will be there on March 1, 12:00 - 14:30.
