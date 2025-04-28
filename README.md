@@ -54,6 +54,4 @@ Next, execute the following command to run the unlearning algorithm.
 Welcome to our session during the conference time. We will be there on March 1, 12:00 - 14:30.
 
 # Cite
-Pan Z, Wang Z, Li C, et al. Federated Unlearning with Gradient Descent and Conflict Mitigation[J]. arXiv preprint arXiv:2412.20200, 2024.
-
-The final citation comes after proceeding with the camera-ready.
+Pan Z, Wang Z, Li C, et al. Federated unlearning with gradient descent and conflict mitigation[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(19): 19804-19812.
