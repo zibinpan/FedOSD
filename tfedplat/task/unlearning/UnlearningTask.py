@@ -53,9 +53,6 @@ class UnlearningTask(fp.BasicTask):
     @staticmethod
     def terminate_extra_execute(alg):
         alg.__class__.__bases__[0].terminate_extra_execute(alg)  
-        fp.FedRecovery.pretrain_save(alg)
-        fp.FedKdu.pretrain_save(alg)
-        fp.FedEraser.pretrain_save(alg)
 
     def modify_client(self, client, attack_portion):
         
